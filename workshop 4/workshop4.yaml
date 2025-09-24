@@ -1,0 +1,13 @@
+#workshop3.yaml
+min: 0
+max: 1
+---
+min: 2
+max: 5 
+---
+min: -1
+max: 10
+config1: 1 
+config2: 2
+config3: 11
+config4: 1

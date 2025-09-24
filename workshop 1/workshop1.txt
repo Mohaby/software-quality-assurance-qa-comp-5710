@@ -1,0 +1,1 @@
+When I ran bandit on my files it found 0 weaknesses when it scaned both programs in the file. It scanned 41 lines of code and came back with no issues.

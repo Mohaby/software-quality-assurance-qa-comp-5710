@@ -1,0 +1,4 @@
+# scan all python files, starting in the project directory, and including all subdirectories. Output to csv file weaknesses.csv.
+
+find -type f -name "*.py" -exec bandit -f csv -o weaknesses.csv {} +
+
